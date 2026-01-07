@@ -1,0 +1,8 @@
+{
+  "name": "VSD Communications S&M Report",
+  "description": "An intelligent sales assistant for channel consultants. Generate leads, research companies with real-time data, finding local prospects, and receive personalized sales coaching.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}

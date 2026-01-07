@@ -1,0 +1,175 @@
+{
+  "timestamp": "2025-12-30T10:29:39.655Z",
+  "profile": {
+    "name": "Farah Fadzila Binti Zakaria",
+    "role": "Sales Channel Consultant",
+    "companyName": "VSD Communications",
+    "targetRevenue": "5,000,000.00",
+    "product": "Wireless Backhaul and WiFi Access",
+    "plan": "Identify Potential Partners, and recruit them while monitoring their performance targeted at RM 3million from partners. Direct efforts through ISP at RM2million. Monthly target revenue of RM500,000.00 to achieve. along with quarterly 3 seminars to be held. LinkedIn and blog posts to create awareness and create community to enhance authority in market ",
+    "experience": "",
+    "industries": "",
+    "salesStyle": "Consultative",
+    "goals": "To be an expert in Network Connectivity in Malaysia",
+    "productAssets": [
+      {
+        "id": "1766972499187",
+        "name": "LigoWave_overview.pdf",
+        "type": "presentation",
+        "url": "blob:https://pipeline-tracker-104886806569.us-west1.run.app/015a4750-034a-4d40-8876-5142331ff362",
+        "size": 177719693,
+        "mimeType": "application/pdf"
+      },
+      {
+        "id": "1766972619843",
+        "name": "LigoDLB 5-20ax Datasheet.pdf",
+        "type": "datasheet",
+        "url": "blob:https://pipeline-tracker-104886806569.us-west1.run.app/b2906267-afa9-4b00-86eb-58623dbed310",
+        "size": 1772835,
+        "mimeType": "application/pdf"
+      },
+      {
+        "id": "1766972635834",
+        "name": "NFT 2ax Datasheet.pdf",
+        "type": "datasheet",
+        "url": "blob:https://pipeline-tracker-104886806569.us-west1.run.app/63af9521-f331-424b-a77c-8501d5f46538",
+        "size": 5181951,
+        "mimeType": "application/pdf"
+      },
+      {
+        "id": "1766972670188",
+        "name": "LigoWave Costing_7.10.2025.xlsx",
+        "type": "costing",
+        "url": "blob:https://pipeline-tracker-104886806569.us-west1.run.app/f3bd8bcc-d53f-4749-8e7c-a9a2588b1eb0",
+        "size": 258709,
+        "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      }
+    ]
+  },
+  "leads": [
+    {
+      "id": "1767075549602",
+      "name": "Arvind Nari <> Mobile: ",
+      "companyName": "Aminia Management Sdn Bhd",
+      "address": "10A Jalan Tiara 3, Tiara Square Taman Perindustrian UEP, Usj 12, 47600 Subang Jaya, Selangor",
+      "email": "arivind@aminia.com",
+      "phone": "+6014 9523960 ",
+      "jobTitle": "",
+      "department": "",
+      "jobDescription": "",
+      "industry": "Unspecified",
+      "source": "Existed client",
+      "userNotes": "",
+      "projectBrief": "CONFIRMED PO: PROPOSAL FOR TM IP RADIO PROJECT B5x + 25dBi"
+    },
+    {
+      "id": "1767063848148",
+      "name": "Mr. Looi Soon Cheng",
+      "companyName": "Hydro-Trent (M) Sdn. Bhd.",
+      "email": "sclooi@hydrotrent.com",
+      "phone": "+60122090131",
+      "jobTitle": "",
+      "department": "",
+      "jobDescription": "",
+      "industry": "Unspecified",
+      "source": "Existed client",
+      "userNotes": "",
+      "projectBrief": "KB BUS TERMINAL PTMP Mismosa A5x + C5x"
+    },
+    {
+      "id": "1767062501734",
+      "name": "Mohd Iqbal",
+      "companyName": "KSIT Solutions Sdn Bhd ",
+      "email": "iqbal@ksitsolutions.com",
+      "phone": "01123320756",
+      "jobTitle": "Engineer",
+      "department": "",
+      "jobDescription": "",
+      "industry": "Unspecified",
+      "source": "Existed client",
+      "userNotes": "",
+      "projectBrief": ""
+    },
+    {
+      "id": "1767062142267",
+      "name": "Amar",
+      "companyName": "KSIT Solutions Sdn Bhd ",
+      "email": "amar@ks-itsolutions.com",
+      "phone": "",
+      "jobTitle": "Head of Department",
+      "department": "Wireless ",
+      "jobDescription": "",
+      "industry": "Unspecified",
+      "source": "Existed client",
+      "userNotes": "",
+      "projectBrief": "On 2025: Rawang-Serendah Mimosa C5x+Lanbowan 30dbi\nPotential and requested credit facilities but, no news on 2025"
+    },
+    {
+      "id": "1767061526866",
+      "name": "Alex",
+      "companyName": "KSIT Solutions Sdn Bhd ",
+      "email": "alex@ks-itsolutions.com",
+      "phone": "+601110773389",
+      "jobTitle": "Executive Director",
+      "department": "",
+      "jobDescription": "",
+      "industry": "Unspecified",
+      "source": "Existed client",
+      "userNotes": "",
+      "projectBrief": "previous engagement in 2025: Rawang-Serendah Mimosa C5x+Lanbowan 30dbi\nHe is the decision maker."
+    }
+  ],
+  "deals": [
+    {
+      "id": "1767075947094",
+      "quotationNo": "QT/120825/0161",
+      "description": "PROPOSAL FOR TM IP RADIO PROJECT B5x + 25dBi",
+      "contactPersonId": "1767075549602",
+      "contactPersonName": "Arvind Nari <> Mobile: ",
+      "companyName": "Aminia Management Sdn Bhd",
+      "decisionMaker": "Deal Breaker",
+      "value": 19992,
+      "activity": "Received PO",
+      "date": "2025-12-26",
+      "pipelineStatus": "Won",
+      "notes": ""
+    },
+    {
+      "id": "1767065328555",
+      "quotationNo": "QT/250825/0170",
+      "description": "KB BUS TERMINAL PTMP Mimosa A5x + C5x",
+      "contactPersonId": "1767063848148",
+      "contactPersonName": "Mr. Looi Soon Cheng",
+      "companyName": "Hydro-Trent (M) Sdn. Bhd.",
+      "decisionMaker": "Decision Maker",
+      "value": 31851,
+      "activity": "Met up with Mr Looi with Joshua at his office.\nThe Bus terminal KB job is confirmed and should be able to share PO by January. Project is expected to start on March 2026.\nChecking SIRIM for Mimosa A5c series",
+      "date": "2025-12-29",
+      "pipelineStatus": "Negotiation",
+      "notes": ""
+    }
+  ],
+  "competitors": [
+    {
+      "id": "1",
+      "name": "Competitor Alpha",
+      "swotAnalysis": "**Strengths:** Global reach, cloud-native.\n**Weaknesses:** High cost, complex support.",
+      "recentNews": "Recently acquired a cybersecurity startup.",
+      "notes": "Aggressive in government tenders."
+    },
+    {
+      "id": "1766972765371",
+      "name": "NetEon Communication Sdn Bhd",
+      "swotAnalysis": "AI SWOT analysis pending...",
+      "recentNews": "",
+      "notes": "\n\n--- AI STRATEGIC INTEL [12/29/2025] ---\n### **B2B SALES BATTLE-CARD: VSD COMMUNICATIONS VS. MARKET RIVALS**\n**Consultant:** Farah Fadzila Binti Zakaria  \n**Focus:** LigoWave Wireless Backhaul & WiFi 6 Solutions\n\n---\n\n### **1. THREE CRITICAL LEVERAGE POINTS (THE VSD EDGE)**\n\n*   **Next-Gen Spectral Efficiency (WiFi 6 Backhaul):**  \n    While many competitors in the Malaysian market are still pushing legacy 802.11ac gear, the **LigoDLB 5-20ax** utilizes WiFi 6 technology. This provides superior noise immunity in Malaysia’s increasingly crowded 5GHz unlicensed spectrum. **Leverage:** Position this as \"Future-Proofing\" against urban RF interference that kills cheaper alternatives.\n\n*   **Proprietary iPoll 3 Protocol vs. Standard CSMA/CA:**  \n    Standard WiFi protocols (used by low-end rivals) suffer from the \"Hidden Node\" problem, leading to packet drops as the network grows. LigoWave’s **iPoll 3** converts the network into a polling-based system. **Leverage:** Use this to win high-density industrial or rural deployments where performance stability is non-negotiable for a \"Connectivity Expert.\"\n\n*   **Localized Consultative Engineering (The VSD \"Human\" Factor):**  \n    Global \"box-mover\" brands lack local boots-on-the-ground support. As a consultant aiming for a RM 5M target, your leverage is **VSD’s ability to provide localized site surveys and customized link planning** using LigoWave’s LinkCalc. **Leverage:** Sell the *Outcome (Guaranteed Up-time)*, not just the *Hardware*.\n\n---\n\n### **2. TRAP QUESTIONS (EXPOSING COMPETITOR WEAKNESSES)**\n\n*   **Trap Question #1 (Targeting Stability):**  \n    *\"When your current wireless backhaul encounters heavy tropical rain or high RF interference from neighboring buildings, how does your system manage the sudden spike in latency and packet re-transmissions?\"*  \n    * **The Goal:** Most mid-market competitors will fail here. LigoWave’s **iPoll** and **802.11ax OFDMA** handle noise significantly better. When they admit to \"occasional drops,\" you introduce LigoWave as the industrial-grade solution.\n\n*   **Trap Question #2 (Targeting TCO & Licensing):**  \n    *\"As you scale from 10 to 50 Access Points, what is the hidden cost of your controller licenses, and does the performance throttle once the 'Cloud' subscription expires?\"*  \n    * **The Goal:** Expose competitors (like Cisco or Meraki) who charge recurring fees. Highlight that **LigoWave’s Infinity Controller** offers enterprise-grade management without the \"subscription trap,\" keeping the client's OPEX low.\n\n---\n\n### **3. CLOSING TACTIC: THE \"RISK MITIGATION\" ACCELERATOR**\n\n**The Context:** Competitors are currently facing fluctuating lead times and rising hardware costs due to global chipset shifts.\n\n**The Tactic:** **The \"Sovereign Connectivity\" Close.**  \nPosition the LigoWave deployment as a strategic move to secure the client's infrastructure *now* before the next round of market price hikes. \n\n**The Script:**  \n*\"Based on the recent volatility in the networking sector, my goal is to ensure VSD Communications locks in your RM [Amount] project at the current LigoWave costing. We have the LigoDLB 5-20ax units ready for staging. If we finalize the PO by [Date], I will include a complimentary initial RF Environment Audit to ensure your WiFi 6 NFT 2ax deployment is optimized for your specific Malaysian site conditions. Shall we secure the inventory today?\"*\n\n---\n\n**Strategic Goal Alignment:** This approach moves you away from \"selling a box\" and firmly establishes you as the **Expert in Network Connectivity** by focusing on technical protocol superiority (iPoll) and long-term financial stability (No-license fees).\n--- END INTEL ---\n"
+    },
+    {
+      "id": "1766973141049",
+      "name": "Teleplex Solutions Sdn Bhd",
+      "swotAnalysis": "AI SWOT analysis pending...",
+      "recentNews": "",
+      "notes": ""
+    }
+  ]
+}
